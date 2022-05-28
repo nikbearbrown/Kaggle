@@ -23,6 +23,8 @@ By "contrast", we mean the difference between the widths of thick and thin strok
 
 Contrast is measured from the single letter 'O' of a given font:    
 
+<img src='https://github.com/nikbearbrown/Kaggle/blob/main/Art/PANOSE_5_Contrast_B.png?raw=true' />
+
 
 If a and b are the maximum widths (calculated perpendicularly to the stroke's "midline") and c and d are the minimum widths, then the contrast κ is equal to .  
 
