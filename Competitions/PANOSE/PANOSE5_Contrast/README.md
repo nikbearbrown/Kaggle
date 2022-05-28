@@ -1,4 +1,4 @@
-# PANOSE Parameter 5: Contrast Competition
+# PANOSE Contrast Competition
 
 The purpose of this competition is to develop algorithms that can predict the PANOSE Contrast classification from an image of a letter. The training, testing and validation data consist of letters classified by the type designer. Not all type designers spend time classifying their typeface. Accurate algorithmic tools to do this task would assist type designers and allow the thousands of typefaces that are unclassified to be accurately classified.  This project is part of the larger Cognitive Type <a href="http://cognitivetype.org/">CognitiveType.org</a> and Warhol.ai <a href='http://warhol.ai/'>Warhol.ai</a> projects whose purpose is to create computational tools to assist designers and artists.  
 
