@@ -1,4 +1,9 @@
-# PANOSE Parameter 5: Contrast
+# PANOSE Parameter 5: Contrast Competition
+
+The purpose of this competition is to develop algorithms that can predict the PANOSE Contrast classification from an image of a letter. The training, testing and validation data consist of letters classified by the type designer. Not all type designers spend time classifying their typeface. Accurate algorithmic tools to do this task would assist type designers and allow the thousands of typefaces that are unclassified to be accurately classified.  This project is part of the larger Cognitive Type <a href="http://cognitivetype.org/">CognitiveType.org</a> and Warhol.ai <a href='http://warhol.ai/'>Warhol.ai</a>projects whose purpose is to create computational tools to assist designers and artists.  
+
+
+## What is PANOSE Contrast?
 
 By "contrast", we mean the difference between the widths of thick and thin strokes.
 
@@ -30,3 +35,11 @@ The continuous parameter's values are grouped into classes according to the thre
 7: medium high, if 0.15 < κ ≤ 0.2  
 8: high, if 0.08 < κ ≤ 0.15   
 9: very high, if κ ≤ 0.08  
+
+
+References:
+
+Haralambous, Yannis (2007) Fonts & Encodings _O'Reilly Media_ https://learning.oreilly.com/library/view/fonts-encodings/9780596102425/   
+
+
+
