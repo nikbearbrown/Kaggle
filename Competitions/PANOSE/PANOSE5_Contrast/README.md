@@ -47,10 +47,10 @@ References:
 
 Haralambous, Yannis (2007) Fonts & Encodings _O'Reilly Media_ https://learning.oreilly.com/library/view/fonts-encodings/9780596102425/   
 
+Coles, Stephen (2012) The Anatomy of Type _Harper Design_ https://typeanatomy.com 
 
-“The Anatomy of Type“ — A Graphic Guide to 100 Typefaces by Stephen Coles is an outstanding book if you want to learn about the history and design details of popular typefaces. The books website is at https://typeanatomy.com 
+Schulz, Florian (2017) The Anatomy of a Thousand Typefaces https://medium.com/@getflourish/the-anatomy-of-a-thousand-typefaces-f7b9088eed1   
 
-The Anatomy of a Thousand Typefaces https://medium.com/@getflourish/the-anatomy-of-a-thousand-typefaces-f7b9088eed1
 
 
 
